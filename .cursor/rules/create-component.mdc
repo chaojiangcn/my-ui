@@ -1,0 +1,10 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+目标：创建组件的开发文档
+
+技术栈：storybook7+vue2
+
+任务：阅读当前项目文件，根据用户的要求创建或者修改组件及组件文档
